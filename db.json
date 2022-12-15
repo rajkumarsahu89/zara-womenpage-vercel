@@ -1112,6 +1112,19 @@
           "product-grid-product-info-colors__text": "+1",
           "product-grid-product-info-colors__text 2": "+1"
         }
-      ]
+      ],
+      "signup":[
+        {
+            "name":"sudhir",
+            "email":"xyz@email.com",
+            "password":"12345"
+        }
+    ],
+    "login":[
+        {
+            "email":"xyz@email.com",
+            "password":"12345"
+        }
+    ]
     }
   
